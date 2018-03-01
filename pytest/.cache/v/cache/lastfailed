@@ -1,0 +1,4 @@
+{
+  "test_string.py::test_valid_string": true, 
+  "test_string.py::test_valid_string[!]": true
+}
